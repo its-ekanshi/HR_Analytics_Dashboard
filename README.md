@@ -1,6 +1,6 @@
 # HR_Analytics_Dashboard
 <h2>Project Objective</h2>
-Help an organization to improve employee performance and improve employee retention (reduce attrition) by creating a HR Analytics dashboard
+Developed an HR Analytics Dashboard to help an organization improve employee performance and reduce attrition through data-driven insights.
 <h2>Insights</h2>
 Overall Attrition:-
 The overall attrition rate is 16.1%, meaning 237 out of 1470 employees left the company. This is a significant number and warrants investigation.

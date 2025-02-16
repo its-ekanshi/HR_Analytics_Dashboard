@@ -1,17 +1,44 @@
-# HR_Analytics_Dashboard
-<h2>Project Objective</h2>
-Developed an HR Analytics Dashboard to help an organization improve employee performance and reduce attrition through data-driven insights.
-<h2>Insights</h2>
-Overall Attrition:-
-The overall attrition rate is 16.1%, meaning 237 out of 1470 employees left the company. This is a significant number and warrants investigation.
+### **📊 HR Analytics Dashboard**  
 
-Attrition by Demographics:-
-***Age:** The highest attrition is in the 26-35 age group. This suggests potential issues related to career progression, compensation, or work-life balance for this demographic.
-***Years at Company:** Attrition is highest among employees within 1-3 years of experience, suggesting a potential onboarding or early career development issue. The graph shows a spike in attrition around 2 years, then a decline, and then another small increase around year 10.
-***Education:** Employees with Life Sciences degrees have the highest attrition (38%), followed by Medical (27%). This could indicate specific challenges within those departments or roles.
-***Salary:** The highest attrition is in the "Up to 5k" salary bracket, indicating potential compensation issues as a driver of employee turnover.
+📌 **Project Overview**  
+This project provides an in-depth **HR analytics dashboard** using **Power BI and Excel** to analyze employee attrition trends. It helps HR professionals understand factors influencing attrition, such as **salary slabs, job roles, education, and age groups**, enabling data-driven decision-making.  
 
-Attrition by Department and Role:-
-***Department:*** Detailed visualizing attrition trends by role and tenure.
+---
 
-Job Role:- Laboratory Technicians have the highest attrition (62), followed by Sales Executives (57). This suggests potential issues specific to these roles, such as workload, management, or opportunities for growth.
+### **📂 Dataset Details**  
+- **Columns Include:** Employee ID, Department, Age, Salary, Years at Company, Attrition Status, Job Role, etc.  
+- **Data Size:** [E.g., 1,500+ employee records]  
+
+---
+
+### **🛠 Tools Used**  
+✅ **Power BI** – Data Transformation, DAX Calculations, Interactive Dashboards  
+✅ **Microsoft Excel** – Data Cleaning, Preprocessing, and Analysis  
+
+---
+
+### **📊 Key Insights & Analysis**  
+✔️ Analyzed **employee attrition** rates across job roles, departments, and salary bands  
+✔️ Identified patterns in **attrition by age, education, and years at company**  
+✔️ Examined **salary distribution and its impact on attrition**  
+✔️ Developed an **interactive dashboard** for HR professionals to explore workforce trends  
+
+---
+
+### **📸 Dashboard Preview**  
+![HR Analytics Dashboard](https://github.com/its-ekanshi/HR_Analytics_Dashboard/blob/main/dashboard.png)  
+🔹 *A snapshot of the Power BI dashboard displaying HR analytics insights*  
+
+---
+
+### **📘 Project Learnings**  
+✔️ Designed an **interactive HR analytics dashboard** for data-driven workforce insights.  
+✔️ Used **filters and slicers** for dynamic exploration of HR trends.  
+✔️ Created **data relationships, performed calculations**, and enhanced **visual storytelling**.  
+✔️ Implemented various **custom visualizations**, including bar charts, pie charts, donut charts, line charts, area charts, and tables to illustrate employee trends effectively.  
+
+---
+
+### **📬 Connect with Me**  
+🔗 **GitHub:** [its-ekanshi](https://github.com/its-ekanshi)  
+🔗 **LinkedIn:** [Ekanshi Saxena](https://www.linkedin.com/in/ekanshisaxena/)  

@@ -26,7 +26,7 @@ This project provides an in-depth **HR analytics dashboard** using **Power BI an
 ---
 
 ### **📸 Dashboard Preview**  
-![HR Analytics Dashboard](https://github.com/its-ekanshi/HR_Analytics_Dashboard/blob/main/dashboard.png)  
+![HR Analytics Dashboard](https://github.com/its-ekanshi/HR_Analytics_Dashboard/blob/main/dashboard%20(HRA).png)  
 🔹 *A snapshot of the Power BI dashboard displaying HR analytics insights*  
 
 ---
